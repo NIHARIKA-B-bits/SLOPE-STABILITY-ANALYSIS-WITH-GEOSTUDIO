@@ -1,6 +1,6 @@
 # slope stabilty analysis CBS geostudio
 # Slope Stability Analysis of an Earth Embankment
-**Software:** GeoStudio 2024 (SLOPE/W)  
+**Software:** GeoStudio 2021 (SLOPE/W)  
 **Analysis Method:** Morgenstern-Price (Limit Equilibrium Method)
 
 ## 📌 Project Overview
