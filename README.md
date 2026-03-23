@@ -22,7 +22,7 @@ This project involves a geotechnical stability assessment of a soil slope. The g
 * **/Report**: PDF summary of material properties (Cohesion, Friction Angle, Unit Weight).
 
 ## 🚀 Visual Evidence
-![Slope Stability Map](fos.png)
+![Slope Stability Map](with cbs/fos1.png)
 *Figure 1: Critical Slip Surface and Factor of Safety (2.140) calculated in GeoStudio.*
 
 ---
