@@ -1,7 +1,6 @@
-# slope stabilty analysis CBS geostudio
 # Slope Stability Analysis of an Earth Embankment
-**Software:** GeoStudio 2021 (SLOPE/W)  
-**Analysis Method:** Morgenstern-Price (Limit Equilibrium Method)
+**Software:** GeoStudio 2021 (SLOPE/W, SEEP/W)  
+**Analysis Method:** Morgenstern-Price (Limit Equilibrium Method), Steady State method
 
 ## 📌 Project Overview
 This project involves a geotechnical stability assessment of a soil slope. The goal was to determine the **Factor of Safety (FoS)** against rotational failure under specified surcharge and geometry conditions. Using SLOPE/W, I modeled the soil strata and analyzed the critical slip surface to ensure structural integrity. The slope had FOS < 1.5 under 80mm/hr rainfall so we added CBS as a protective cover to enhance FOS. 
